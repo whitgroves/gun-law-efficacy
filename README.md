@@ -22,4 +22,4 @@ As of 2025, the impact of firearm restrictions on gun crimes is still an open qu
 ## Acknowledgement
 Each and every one of these events is a tragedy, and though it feels heartless to look at them through a statistical lens, their pervasiveness suggests a deeper problem in society that warrants taking a deeper look.
 
-However, because this is an emotional - and for many, a personal - issue, I will not make any policy recommendations in my conclusion; it is on the reader to interpret the results as fits their worldview.
+However, because this is an emotional - and for many, a personal - issue, I will not make any policy recommendations; it is on the reader to interpret the results and draw their own conclusions.
