@@ -17,7 +17,7 @@ As of 2025, the impact of firearm restrictions on gun crimes is still an open qu
 ## Updated approach
 1. Find updated statistics on mass shootings.
 2. Re-use the compiled laws from 2016 to observe impact from that date onwards.
-3. Repeat the original 2016 analysis using new data on mass shooting events and looking at per capita numbers.
+3. Repeat the original 2016 analysis using new data on mass shooting events and looking at per capita victims and % of events in states with/without certain policies.
 
 ## Acknowledgement
 Each and every one of these events is a tragedy, and though it feels heartless to look at them through a statistical lens, their pervasiveness suggests a deeper problem in society that warrants taking a deeper look.
